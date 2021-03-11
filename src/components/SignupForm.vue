@@ -25,7 +25,7 @@
     </div>
 
     <div class="submit">
-      <button>Create An Account</button>
+      <button>Create an Account</button>
     </div>
   </form>
   <p>Email: {{ email }}</p>
